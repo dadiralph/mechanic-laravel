@@ -1,0 +1,19 @@
+{
+    "apiKey": "AIzaSyAUnj0N-M99e-lF8mmruqAwfRvOmLzUvxE",
+    "authDomain": "mechanic-assistance-3b77d.firebaseapp.com",
+    "projectId": "mechanic-assistance-3b77d",
+    "storageBucket": "mechanic-assistance-3b77d.appspot.com",
+    "messagingSenderId": "564842703163",
+    "appId": "1:564842703163:web:f22a526830a1a0a5f3af1e",
+    "type": "service_account",
+    "project_id": "mechanic-assistance-3b77d",
+    "private_key_id": "7e6d0d5ae52fbc028e59c0c9530e215d8175cb7b",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDnDxC9EDLO+fHa\nJoPz66lYXcM34bQUHLjD6cTAwo2sCQUTDW4p6RHX2DBxsVeFZYaCkwxUeD3xhmJR\nZjOiBb1ktXx2T7WsYRVQzRhAnzsxcRtJOiqj7DZWC2nde8FhZQCv3iTIN7nxLwY8\necLXpNeblLLoLjKDroNU1fylPY3NGPvKRF0aT2WIbTBd22XFlprF0auPMT8nY/Fu\nH1Fx+sd3NP6JeC4es7X2aA2NlT0fF/s9ZLUThHU1nsJpK7uhRqr5wE6p1VHQNcNG\n0phmdm9JqIfNQWH5ab5X4P14She5XaYcbsH7ZIv1+XZB0t3/2nA8iV2dUgRZGppw\n0JhHw2x5AgMBAAECggEACNjcc9bK0T7EBk22+/gcKvplGw7I98OtRfAdpOFWLh4G\nzBbVruRiFuUL3tCS6LRNWRLTFClp+sVh3prGk5e7a5+g2UFeVBBAEhDWUsQeDru1\nVyGTaCUnY/ZKKo0+Z3Gn+/PqLeHnXF8n8pkZbyscR9Ri4M3DCKR+Ghma88NGepG9\nkhjBa2+/WBVouRrpIcfV1RMst0PSmkMqTrew3FXsPoJrDYbFiAf9PL+92YfmHvKe\nMRYw53MW7HLaNxY07pT6JOuY1k+t+iMQlsPnPzedO5o6gfWqkh8q/05cOi6ZUGq1\nnySHyWiCWZ6I7J4yt5Jd2Zyncll/lxTrWgS/mpeScQKBgQD44DTkG4yLi3K8ey3D\n4R3xqnJPmoZvl6qsdmZteY/pCsoUk72VtDLE495Pz6rCp2056qvT6qq9onMiJR0h\nKUbNlXd7oJhndvLHK5GtbGXB7lQZUNd2G+98MNKmNl39f4H+AeKM/hvpZfprwxBl\n7gYnhRjrYpRbj8r5a48aifGDaQKBgQDtrEs6SS22Lz9B9ZA25Rl6wwzZM3fAd4fv\n1VRrvXk093nxPzzT1fbVbUji4vyVcPKf/lpcfz9DS+8gMG04//j0n7koVP83aoLW\nYJnJXM6C3rGmyw0r8OM1nqxZhei8e66wRHYaFqsrlZSoalFzVijdTqDv0AK+eDtS\nUgbHyL5OkQKBgBM5DhzIW/SzUqtoQEKu8qcl6Spo3xVje5VSl9rA1vLDGJS6TJxx\njLJUf2leuuvKDs+4Zok5yPJYx9fNUhCrpYJflxj/cIYdU+c6YEgq5TkzdV93NQ00\nXy0SgFLCREQ+QwYhkyQcxH8kl1EXgf69gdAvoZscxCTGWIEnY6hDG1pxAoGAW1aV\naobo/FTX+J9IlvAghJ8k9uvin6LQKQlQ8j7Ur9hTkrT8yWQ3AfqHwjn9W+kWNQpo\n65czVsd91F8H+pnUsR4Y6DkSA9f5BC4Hq+zwqDaxCyqJm1Nt3hNmpNjjglv93FvT\nD1+a1JsdkEObnbmE5tfq3X6RL2XBVneTh3/MMyECgYAJZdkGFR4MBkwdgFoCYwO9\n1c5QqwInXolcJMuKRSoisPD3qhLXVMVumoJgTrNTr8MSznwMdK3DxQG1vlwahKUI\nm9EREp2IliOue5O7W9NhU8yXLqfUoUEqTwaqZY6VJEbANyVNBVw3CGT1o2xISbVm\n3GJPTA3Rh6QHZbs9aCzBag==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-jvyyy@mechanic-assistance-3b77d.iam.gserviceaccount.com",
+    "client_id": "114285647163329666440",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-jvyyy%40mechanic-assistance-3b77d.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
